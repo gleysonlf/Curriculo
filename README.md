@@ -24,19 +24,13 @@ Fortaleza/CE
 ## Competências
 
 **FrontEnd:**
-* ES6
-* AngularJs
-* Ionic
-* ReactJS
-* React Native
-* Redux
-* Webpack
-* Testes de software
-* HTML5/CSS3
+* AngularJS / Ionic
+* ReactJS / Redux / Native
+* HTML5/CSS3/ES6
 * Pré-processadores (Sass, Less)
-* Responsive Design
 * Automatizadores (Gulp, Webpack)
-* jQuery
+* Responsive Design
+* UX Design
 
 
 **Banco de Dados:**
