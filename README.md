@@ -24,14 +24,15 @@ Fortaleza/CE
 ## Competências
 
 **FrontEnd:**
-* AngularJS / Ionic
-* ReactJS / Redux / Native
-* HTML5/CSS3/ES6
+* HTML5/CSS3/JavaScript
+* Angular
+* React
 * Pré-processadores (Sass, Less)
 * Automatizadores (Gulp, Webpack)
-* Responsive Design
-* UX Design
 
+**Mobile:**
+* Ionic 3+
+* React Native
 
 **Banco de Dados:**
 * Microsoft SQL
@@ -47,11 +48,12 @@ Fortaleza/CE
 
 
 **Outros:**
-* Sharepoint Framework
-* Base de UX/UI.
+* Interface e Experiência de Usuário (*UI,UX*)
+* Editores de Gráficos e Imagens (*Corel Drawn, Gimp, Inkscape, Photoshop*)
 * Conhecimento em Design e Arquitetura de Software
-* Sistema de Controle de versão *(git)*
-* Scrum
+* Sistema de Controle de versão (*git*)
+* Microsoft Sharepoint Framework (*SPFx*)
+* Metodologia Ágil (*Scrum*)
 
 
 ---
