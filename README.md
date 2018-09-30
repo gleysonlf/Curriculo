@@ -14,8 +14,6 @@ Fortaleza/CE
 
 **Github:** gleysonlf
 
-**Skype:** gleysonlf
-
 **Inglês:** Básico
 
 
@@ -43,7 +41,7 @@ Fortaleza/CE
 
 
 **Infra**
-* Linux Debian
+* Linux Ubuntu/Debian
 * Windows Server
 
 
@@ -90,8 +88,7 @@ Fortaleza/CE
 ## Formação
 
 * **Graduação** - Analise e Desenvolvimento de Sistemas (ESTACIO) - **[Em andamento]**
-* **Certificação** - Desenvolvedor Multiplataforma Android/IOS com React Native.
-* **Curso** – Desenvolvimento Web com Angular por [Jorge Sant'Ana](https://www.linkedin.com/in/jorgetadeusantanasilva/).
+* **Certificação** - Scrum Fundamentals Certified (SFC) pela [SCRUMStudy](http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificates/ScrumFundamentalsCertified-WANDGLEYSONLIRADEFIGUEREDO-659017.pdf).
 * **Curso** – Desenvolvimento Mobile com React Native pela [Cod3er](https://github.com/cod3rcursos/).
-* **Curso** – Desenvolvimento Web Moderno com ReactJS e VueJS pela [Cod3er](https://github.com/cod3rcursos/).
-* **Curso** – Desenvolvimento Web pela [Cod3er](https://github.com/cod3rcursos/).
+* **Curso** – Desenvolvimento Web com ReactJS e VueJS pela [Cod3er](https://github.com/cod3rcursos/).
+* **Curso** – Desenvolvimento Web com Angular por [Jorge Sant'Ana](https://www.linkedin.com/in/jorgetadeusantanasilva/).
